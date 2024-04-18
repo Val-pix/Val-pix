@@ -1,8 +1,8 @@
 - 👋 Hiya, I’m @Val-pix
 - 👀 I’m interested in Front-End Web Dev
 - 🌱 I’m currently learning HTML & CSS & JavaScript
-- 📫 How to reach me; my instagram is @avc922
-- ⚡ Fun fact: I'm learning all this on my own + bootcamp
+- 📫 How to reach me; my instagram is @design.codevalpix
+- ⚡ Fun fact: I'm currently an Industrial Design student @CarletonU
 
 <!---
 Val-pix/Val-pix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
